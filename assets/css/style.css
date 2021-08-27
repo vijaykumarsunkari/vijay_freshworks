@@ -931,5 +931,68 @@ span {
 .download-content ul li a.play-store {
     background-color: #525a63;
 }
+.cont1{
+    
+    margin-top:30px;
+    margin-left:200px;
+    margin-right: 200px;
+    margin-bottom: 3em;
+}
+.cont2{
+    margin-top:30px;
+    margin-left:200px;
+    margin-right: 200px;
+}
+
+.box5{
+    display: table-cell;
+    width:40%;
+    text-align: left;
+    font-family: sans-serif;
+}
+.lazy-image5{
+    height: 100px;
+}
+.lazy-image6{
+    height: 100px;
+}
+.box6{
+    font-family: sans-serif;
+    display: table-cell;
+    width:40%;
+    text-align: left;
+}
+.section4{
+    padding: 100px 0;
+    background-color:#010916;
+    color: whitesmoke;
+}
+.a{
+   text-decoration: none !important;
+}
+.headline9{
+text-align: center;
+font-size: xx-large;
+}
+.forward--link-link-mt-xs{
+    font-size: 20px;
+    
+    color: #fe5f59;
+
+}
+.forward--link-link-mt-xs1{
+
+    font-size: 20px;
+    margin-bottom: 50em;
+    color: #fe5f59;
+}
+.link--{
+margin-bottom: 3em;
+margin-top: 2.3em;
+}
+.logo{
+margin-right: 2em;
+margin-bottom: 1em;
+}
 
 /* ----------- footer css --------- */
